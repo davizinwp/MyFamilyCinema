@@ -1,5 +1,5 @@
-#EXTM3U x-tvg-url="https://gitlab.com/-/snippets/3723672/raw/main/Painel.py"https://gitlab.com/davizin7_projetos/davizin7.git"git@gitlab.com:davizin7_projetos/davizin7.git"
-#EXTINF:-1 tvg-id="Meu Family Cinema 📺" tvg-name="" tvg-logo="https://myfamilycinema.com/wp-content/uploads/2022/09/cropped-MFClogo-01-1.png"group-title="My Family Cinema", Meu MFC 📺 ( Sempre atualize a lista ✅ )
+#EXTM3U x-tvg-url="https://gitlab.com/-/snippets/3723672/raw/main/Painel.py"https://gitlab.com/davizin7_projetos/davizin7.git"git@gitlab.com:davizin7_projetos/davizin7.git" # .gitlab-ci.yml
+#EXTINF:-1 tvg-id="Meu Family Cinema 📺" tvg-name="" tvg-logo="https://myfamilycinema.com/wp-content/uploads/2022/09/cropped-MFClogo-01-1.png"group-title="My Family Cinema", Meu MFC 📺 ( Sempre atualize o MFC ✅ )
 https://painelmyfamiliersbr.com.br
 #EXTINF:-1 tvg-id="Jogos do Dia 🤺" tvg-name="" tvg-logo="https://www.tvexpress.pro/wp-content/uploads/2024/05/menu-do-futebol.webp"group-title="Esportes  ", Jogos do Dia 🆕
 http://playtvs.live/live/658238344842/076502399118/1275218.m3u8
@@ -151,4 +151,4 @@ http://acessoplus.top:80/live/6345487266/5753263850/1805988.m3u8
 #EXTINF:-1 tvg-id="TV Globo RJ" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Logo_globo_principal-laranja.png"group-title="TV Aberta  ", TV Globo RJ
 http://ip236.ip-51-79-39.net:80/live/carlossouza/21964609840/113812.m3u8?token=TRNcUBZZEwoRDlJcBAdRXV1UAAIOBgUNAgUCAF9YUQcHCFEJUgVTUlAUSRpAQEVcBVptXl0RWQgDAwkIVE0VR0VURm4MVRMKEQRSCAEMAwhGGxBDUF4GGwgAHRsWCFMQDBMFAlYGBQIRGkddS0BSSwpWXmhdVhVQUVUTAwgUW14aE1tfOlVUXVJYARoJFgcbSBVbREkRWRtkWUJQCQ8XcVlfWlQGRRFkVloAW1xZQlcNVFNrTANTXAVfVEpGLUNWVxF5VEcdE1JaQhdZR1EVA0YBAwUMEU8bUV9EVxITThAME3ZjRx0TVUtCAFZAXVhXRg0QWgpGWxseElhKORNSQUJDUVAIVEMSCRRVGh8WWlgcaFFYV10GWkZZXlcVQw0QBBMYEwheX1lHWRdnQ11TG14VAQYBAEFE
 
-❓ Duvidas: "MFC se destaca como uma plataforma acessível e de qualidade que oferece canais brasileiros e internacionais, legendados e dublados em português. Oferecemos uma variedade de canais e conteúdo completo, para que você possa aproveitar o melhor do futebol, filmes e muito mais 📺" ( Sempre atualize a lista ✅ )
+❓ Duvidas: "MFC se destaca como uma plataforma acessível e de qualidade que oferece canais brasileiros e internacionais, legendados e dublados em português. Oferecemos uma variedade de canais e conteúdo completo, para que você possa aproveitar o melhor do futebol, filmes e muito mais 📺" ( Sempre atualize o MFC ✅ )
