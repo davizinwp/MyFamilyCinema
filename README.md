@@ -1,5 +1,5 @@
 # My Family Cinema 📺
 Quer um filme ou outra coisa? 👇
-# myfamilycinema.info@gmailcom 📫
+# myfamilycinema.info@gmailcom
 
 @davizinwp 🧑‍💻
