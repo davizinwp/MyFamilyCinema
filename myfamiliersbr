@@ -5,7 +5,7 @@ https://painelmyfamiliersbr.com.br
 http://playtvs.live/live/658238344842/076502399118/1275218.m3u8
 #EXTINF:-1 tvg-id="Divertidamente 2" tvg-name="My Family Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR12_kwLURmQGYEhnlsMfyBmOcZdrQ9Hg3ozAgZTi-hF8Z-sj202saF8zdQ&s=10.png"group-title="Você pode gostar 📦", Divertidamente 2
 https://abrir.link/divertidamente2mfc-m
-#EXTINF:-1 tvg-id="Alerta de Risco" tvg-name=" My Family Cinema" tvg-logo="https://br.web.img3.acsta.net/img/b6/1f/b61f07b7ec9507e83e80907519a8fbe5.PNG"group-title="Você pode gosta📦 ", Alerta de Risco
+#EXTINF:-1 tvg-id="Alerta de Risco" tvg-name=" My Family Cinema" tvg-logo="https://br.web.img3.acsta.net/img/b6/1f/b61f07b7ec9507e83e80907519a8fbe5.PNG"group-title="Você pode gostar📦", Alerta de Risco
 https://tinyurl.com/3m88mznw
 #EXTINF:-1 tvg-id="Sob as Aguas do Sena" tvg-name="" tvg-logo="https://br.web.img2.acsta.net/img/41/3d/413db0a8783aadc27085a39ec38939c0.jpg"group-title="Você pode gostar 📦", Sob as Aguas do Sena
 https://tinyurl.com/2a69fbbj
@@ -25,7 +25,7 @@ https://tinyurl.com/2zdhhm82
 https://tinyurl.com/3f8ttjt3
 #EXTINF:-1 tvg-id="Um Gato de Sorte" tvg-name="My Family Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfKGbkUUiXpYHbAS5rgy6x4wIgdyT8NwUUH3nIdG8GIGV2BQIOXX7gcF3H&s=10.png"group-title="Você pode gostar 📦", Um Gato de Sorte
 https://tinyurl.com/2zffy68z
-#EXTINF:-1 tvg-id="Kung Fu Panda 4" tvg-name="My Family Cinema" tvg-logo="https://br.web.img3.acsta.net/pictures/23/12/13/18/13/4592801.jpg"group-title-="Você pode gostar 📦", Kung Fu Panda 4
+#EXTINF:-1 tvg-id="Kung Fu Panda 4" tvg-name="My Family Cinema" tvg-logo="https://br.web.img3.acsta.net/pictures/23/12/13/18/13/4592801.jpg"group-title="Você pode gostar 📦", Kung Fu Panda 4
 https://tinyurl.com/yfycmt6h
 #EXTINF:-1 tvg-id="Um Tira da Pesada 4" tvg-name="My Family Cinema" tvg-logo="https://br.web.img3.acsta.net/pictures/23/12/22/21/01/5937812.jpg"group-title="Você pode gostar 📦", Um Tira da Pesada 4
 https://myfamilycinema.live/4mbpf8cy
@@ -60,10 +60,7 @@ http://czcdn.vood.top/live/viva4k/tvexpress/284616.m3u8
 #EXTINF:-1 tvg-id="Globo News" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png"group-title="Notícias | Globo News",Globo News
 http://czcdn.vood.top/live/globonews/tvexpress/284589.m3u8
 #EXTINF:-1 tvg-id="Multishow" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/800px-Multishow_logo_red_2012.svg.png"group-title="Multishow | Multishow FHD",Multishow
-http://dzcdn.vood.top/live/multishowglobo/tvexpress/2516.m3u8 
-#EXTINF:-1 tvg-id="TV Cultura" tvg-name=""
-tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png"group-title="TV Aberta ",TV Cultura
-http://gzcdn.vood.top/live/tvcultura/tvexpress/148.m3u8
+http://dzcdn.vood.top/live/multishowglobo/tvexpress/2516.m3u8
 #EXTINF:-1 tvg-id="SBT SP" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/2048px-Logotipo_do_SBT.svg.png"group-title="TV Aberta ",SBT
 https://aovivo.maissbt.com/index.m3u8?content_channel_id=12&content_livestream=1
 #EXTINF:-1 tvg-id="Star Channel" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png"group-title="Star Channel | Star Channel",Star Channel
