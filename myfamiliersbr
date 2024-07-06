@@ -47,9 +47,9 @@ https://tinyurl.com/3v2erb6e
 https://tinyurl.com/ydahskn2
 #EXTINF:-1 tvg-id="Snoopy Apresenta: A Escola da Lucy" tvg-name="My Family Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR0n-QMCHDjI5dzhEDEYo69xV1iJOAOuueu6WY3nhsC2s8ZTDPpUUDkEY&s=10.png"group-title="AppleTV+ ", Snoopy Apresenta: A Escola da Lucy
 https://tinyurl.com/ytp496cj
-#EXTM3U:-1 tvg-id="Segredos dos Polvos" tvg-name="My Family Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoNpR3h0vllOa_TDCO1XILyK7ICHgi2nAN-K-SRLKcNtHuGxo4nlEj2zo&s=10.png"group-title="Documentarios Disney+", Segredos dos Polvos
+#EXTINF:-1 tvg-id="Segredos dos Polvos" tvg-name="My Family Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoNpR3h0vllOa_TDCO1XILyK7ICHgi2nAN-K-SRLKcNtHuGxo4nlEj2zo&s=10.png"group-title="Documentarios Disney+", Segredos dos Polvos
+#EXTINF:-1, EP 01
 https://tinyurl.com/4bmd8a5p
-https://tinyurl.com/bdf75xkc
 #EXTINF:-1 tvg-id="CazeTV" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/cazetv-logo-0.png"group-title="Esportes | ", CazeTV
 http://fzcdn.vood.top/live/cazetv/cazetvexpress/311744.m3u8
 #EXTINF:-1 tvg-id="Futura" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png"group-title="TV Aberta  ", Futura
