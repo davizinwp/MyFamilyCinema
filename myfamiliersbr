@@ -47,10 +47,25 @@ https://tinyurl.com/3v2erb6e
 https://tinyurl.com/ydahskn2
 #EXTINF:-1 tvg-id="Snoopy Apresenta: A Escola da Lucy" tvg-name="My Family Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR0n-QMCHDjI5dzhEDEYo69xV1iJOAOuueu6WY3nhsC2s8ZTDPpUUDkEY&s=10.png"group-title="AppleTV+ ", Snoopy Apresenta: A Escola da Lucy
 https://tinyurl.com/ytp496cj
+
+############################
 #EXTINF:-1 tvg-id="Segredos dos Polvos" tvg-name="My Family Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoNpR3h0vllOa_TDCO1XILyK7ICHgi2nAN-K-SRLKcNtHuGxo4nlEj2zo&s=10.png"group-title="Documentarios do Disney+", Segredos dos Polvos
 https://tinyurl.com/m3v3pjhj
-#EXTINF:-1 tvg-id="Os Parças: A Serie" tvg-name="My Family Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsP7m-UJVa5EsidsXq9BAmz8t_SGV_vG2bWQ&usqp=CAU.png"group-title="Series | Globoplay", Os Parça: A Serie
+
+###########################
+#EXTINF:-1 tvg-id="Os Parças: A Serie" tvg-name="My Family Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsP7m-UJVa5EsidsXq9BAmz8t_SGV_vG2bWQ&usqp=CAU.png"group-title="Series | Globoplay", Os Parças
 https://tinyurl.com/ve6kv4rx
+#EXTINF:-1 tvg-id="Gigablaster" tvg-name="My Family Cinema" tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/e/e0/GigaBlaster_-_logo_%28Brazilian_Portuguese%29.png/revision/latest?cb=20211117201445.png"group-title="Series | Globoplay", Gigablaster
+https://tinyurl.com/5n7ms5k5
+#EXTINF:-1 tvg-id="Justiça 2" tvg-name="My Family Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a0/Justi%C3%A7a_2_-_P%C3%B4ster_de_Balthazar.jpg"group-title="Series | Globoplay", Justiça 2
+https://tinyurl.com/2fnbych6
+
+###########################
+#EXTINF:-1 tvg-id="Terra de Mulheres" tvg-name="My Family Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAg_fUNiHZ7e4yTxeE41hP0LpkukqBOZCkOaW2i9yGQaDSbDdJy3rw8SQR&s=10.png"group-title="Series | AppleTV", Terra de Mulheres
+https://tinyurl.com/2f37a3ys
+#EXTINF:-1 tvg-id="Uma Questão de Química" tvg-name="My Family Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR951dM8Dt8SAWADaIrbbY0pHIsIG4iR88W4g&s.png"group-title="Series | AppleTV", Uma Questão de Química
+
+############################
 #EXTINF:-1 tvg-id="CazeTV" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/cazetv-logo-0.png"group-title="Esportes | ", CazeTV
 http://fzcdn.vood.top/live/cazetv/cazetvexpress/311744.m3u8
 #EXTINF:-1 tvg-id="Futura" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png"group-title="TV Aberta  ", Futura
