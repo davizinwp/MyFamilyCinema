@@ -1,9 +1,10 @@
 #EXTM3U x-tvg-url="https://gitlab.com/-/snippets/3723672/raw/main/Painel.py" #EXTINF:-1 tvg-id="Meu Family Cinema 📺" tvg-name="" tvg-logo="https://myfamilycinema.com/wp-content/uploads/2022/09/cropped-MFClogo-01-1.png"group-title="My Family Cinema", Meu MFC 🦆 ( Sempre atualize o MFC ✅ ) https://painelmyfamiliersbr.com.br 
-#EXTINF:-1 tvg-id="Jogos do Dia 🤺" tvg-name="" tvg-logo="https://www.tvexpress.pro/wp-content/uploads/2024/05/menu-do-futebol.webp"group-title="Esportes ", Jogos do Dia 🆕 
+#EXTINF:-1 tvg-id="Jogos do Dia 🤺" tvg-name="" tvg-logo="https://www.tvexpress.pro/wp-content/uploads/2024/05/menu-do-futebol.webp"group-title="MFC | Eventos do Dia", Jogos do Dia 🗞️
 http://playtvs.live/live/658238344842/076502399118/1275218.m3u8 
 
 #MyFamilyCinema - myfamilycinema.info@gmail.com
-#EXTINF:-1 tvg-id="Divertidamente 2" tvg-name="My Family Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR12_kwLURmQGYEhnlsMfyBmOcZdrQ9Hg3ozAgZTi-hF8Z-sj202saF8zdQ&s=10.png"group-title="Você pode gostar 📦", Divertidamente 2 https://abrir.link/divertidamente2mfc-m 
+#EXTINF:-1 tvg-id="Divertidamente 2" tvg-name="My Family Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR12_kwLURmQGYEhnlsMfyBmOcZdrQ9Hg3ozAgZTi-hF8Z-sj202saF8zdQ&s=10.png"group-title="Você pode gostar 📦", Divertidamente 2
+https://abrir.link/divertidamente2mfc-m 
 #EXTINF:-1 tvg-id="Alerta de Risco" tvg-name="My Family Cinema" tvg-logo="https://br.web.img3.acsta.net/img/b6/1f/b61f07b7ec9507e83e80907519a8fbe5.PNG"group-title="Você pode gostar 📦", Alerta de Risco 
 https://tinyurl.com/3m88mznw 
 #EXTINF:-1 tvg-id="Sob as Aguas do Sena" tvg-name="" tvg-logo="https://br.web.img2.acsta.net/img/41/3d/413db0a8783aadc27085a39ec38939c0.jpg"group-title="Você pode gostar 📦", Sob as Aguas do Sena 
